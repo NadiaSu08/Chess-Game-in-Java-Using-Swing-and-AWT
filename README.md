@@ -22,7 +22,7 @@ This repository contains a Java implementation of a chess game. The game is impl
 - Board: This class represents the chess board and is responsible for drawing the board.
 - Mouse: This class handles mouse input for selecting and moving pieces.
   
-# Piece Classes
+## Piece Classes
 - Piece: The base class for all chess pieces.
 - Pawn, Rook, Knight, Bishop, Queen, King: These classes extend the Piece class and implement specific movement rules for each type of piece.
   
