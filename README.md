@@ -35,6 +35,9 @@ This repository contains a Java implementation of a chess game. The game is impl
 - For pawn promotion, click on the desired piece (Rook, Knight, Bishop, Queen) when prompted.
 
 # Screenshots
-![Screenshot (503)](https://github.com/NadiaSu08/Chess-Game![Screenshot (502)](https://github.com/NadiaSu08/Chess-Game-in-Java-Using-Swing-and-AWT/assets/171116728/294b8207-ec9c-48c4-b827-05785bc7a1db)
--in-Java-Using-Swing-and-AWT/assets/171116728/9108ba8e-d0ee-4656-a97d-10301e9f2881)
-![Screenshot (501)](https://github.com/NadiaSu08/Chess-Game-in-Java-Using-Swing-and-AWT/assets/171116728/d927d78e-31af-42db-a97b-435745b96886)
+![Screenshot (504)](https://github.com/NadiaSu08/Chess-Game-in-Java-Using-Swing-and-AWT/assets/171116728/ed037678-cf17-465c-81be-613636c892de) 
+![Screenshot (505)](https://github.com/NadiaSu08/Chess-Game-in-Java-Using-Swing-and-AWT/assets/171116728/99b7043a-89c9-46d2-b90b-cf125abda701)
+![Screenshot (506)](https://github.com/NadiaSu08/Chess-Game-in-Java-Using-Swing-and-AWT/assets/171116728/f817a424-fc2d-4d04-b606-87b2bae7d9c1)
+![Screenshot (507)](https://github.com/NadiaSu08/Chess-Game-in-Java-Using-Swing-and-AWT/assets/171116728/799ed53f-4830-471f-b641-111ec9b9aa45)
+
+
