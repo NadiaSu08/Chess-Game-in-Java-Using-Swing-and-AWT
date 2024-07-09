@@ -17,7 +17,7 @@ This repository contains a Java implementation of a chess game. The game is impl
 - AWT (Abstract Window Toolkit): Used indirectly through Swing for rendering graphics and handling events.
 
 # Classes Overview
-# Main Classes
+## Main Classes
 - GamePanel: This is the main class that sets up the game board and handles the game loop, piece movement, and rendering.
 - Board: This class represents the chess board and is responsible for drawing the board.
 - Mouse: This class handles mouse input for selecting and moving pieces.
